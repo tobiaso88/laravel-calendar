@@ -1,12 +1,12 @@
 {
-    "name": "acaronlex/laravel-calendar",
+    "name": "tobiaso88/laravel-calendar",
     "description": "Laravel helper for FullCalendar.io",
     "license": "MIT",
     "type": "package",
     "authors": [
         {
-            "name": "acaronlex",
-            "email": "acaronlex@outlook.com"
+            "name": "Tobias",
+            "email": "info@tobias-olsson.se"
         }
     ],
     "require": {
